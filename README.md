@@ -12,6 +12,9 @@ Olist acts as a marketplace integrator that connects small and medium-sized sell
 ## Business Goals
 To improve platform performance, customer satisfaction, and seller efficiency, Olist has four main goals. First, enhance customer experience by reducing late deliveries and identifying the causes of negative reviews. Second, increase operational efficiency by optimizing logistics, minimizing returns and cancellations, and monitoring seller performance. Third, maximize marketing conversion by understanding which channels drive purchases and linking them to successful orders. Lastly, drive revenue and retention by promoting high-value products and retaining high-lifetime-value customers.
 
+# Dataset
+[[Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
+
 # Problem
 One of the major challenges in e-commerce is the vast amount of data that is often scattered and unstructured. With transactions, customer interactions, logistics, reviews, and marketing data coming from various sources, managing and organizing this information becomes complex. Moreover, regular analysis is crucial across all departments—such as sales, customer service, logistics, and marketing—to support informed decision-making. Without a well-structured and centralized data warehouse, it becomes difficult to perform reliable, efficient, and timely analysis, which can hinder business growth and responsiveness.
 

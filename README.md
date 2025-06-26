@@ -1,7 +1,7 @@
 # Olist Data Warehouse
+![Image](https://github.com/user-attachments/assets/c0c6ca29-bf70-415e-9db3-9072066e9f69)
 
 ## Business Understanding
-![image](https://github.com/user-attachments/assets/48f6628f-5ae8-4ec9-a0cc-18240bea18a6)
 
 ### About Olist Store
 Olist is a Brazilian B2B e-commerce company that helps small and medium-sized businesses sell their products on major online marketplaces. By aggregating merchants into its platform and handling logistics and operations, Olist enables them to reach a wider customer base without needing to manage multiple sales channels individually.
